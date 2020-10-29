@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="screenshot" src="docs/images/particles_io.png"> 
+  <img alt="screenshot" src="docs/particles_io.png"> 
 </div>
 
 <h2 style="padding-top: 40px;" align="center">ParticleIO</h2>
@@ -35,7 +35,8 @@ java -jar particlesIO.jar
 
 ## Examples
 
-![Dribbble](/docs/media/dribbble.gif)
+![Example1](/docs/example1.png)
+![Example2](/docs/example2.png)
 
 <a name="license"></a>
 

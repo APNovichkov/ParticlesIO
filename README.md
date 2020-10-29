@@ -1,11 +1,15 @@
-<div align="center">
-  <img alt="screenshot" src="docs/particles_io.png"> 
-</div>
-
 <h2 style="padding-top: 40px;" align="center">ParticleIO</h2>
 <p align="center">
 A fun and artistic personal project that emulates Particles.js as a Java application, with some creative customization features. 
 </p>
+<br>
+<br>
+
+<div align="center">
+  <img alt="screenshot" src="docs/particles_io.png"> 
+</div>
+
+
 <br>
 <br>
 

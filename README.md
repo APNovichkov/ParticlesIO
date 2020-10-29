@@ -54,6 +54,6 @@ Contributions are welcome!
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/APNovichkov"><img src="https://avatars3.githubusercontent.com/u/46610773?s=460&v=4" width="75px;" alt="Andrey Novichkov"/><br /><sub><b>Andrey Novichkov</b></sub></a><br /><a href="https://github.com/APNovichkov/ParticleIO/commits/master" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/APNovichkov"><br /><sub><b>Andrey Novichkov</b></sub></a><br /><a href="https://github.com/APNovichkov/ParticleIO/commits/master" title="Code">💻</a></td>
     
   </tr>

@@ -7,9 +7,6 @@
 A fun and artistic personal project that emulates Particles.js as a Java application, with some creative customization features. 
 </p>
 <br>
-<p align="center">
-  <a href="https://github.com/imthaghost/goclone/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-</p>
 <br>
 
 ## Table of Contents

@@ -25,8 +25,8 @@ A fun and artistic personal project that emulates Particles.js as a Java applica
 
 ### Manual
 
-1. Install <a href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">Java SDK 8+</a> from the Oracle website
-2. Download JAR executible from this github repo
+1. Install <a href="https://www.oracle.com/java/technologies/javase/jdk14-archive-downloads.html">Java SDK 14</a> from the Oracle website
+2. Download particlesIO.jar from this github repo
 
 ```bash
 # Run in Terminal :)
